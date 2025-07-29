@@ -1,0 +1,29 @@
+{
+  "intro": [
+    "Tell me about your product management experience.",
+    "What products have you worked on that you're particularly proud of?",
+    "How do you prioritize features in a product roadmap?"
+  ],
+  "technical": {
+    "junior": [
+      "How would you gather requirements for a new feature?",
+      "Explain how you would measure the success of a product feature.",
+      "What tools do you use for product management?"
+    ],
+    "mid": [
+      "How would you handle conflicting priorities between engineering and business teams?",
+      "Describe your process for conducting user research.",
+      "How would you approach pricing a new product?"
+    ],
+    "senior": [
+      "Design a go-to-market strategy for a new SaaS product.",
+      "How would you pivot a product that's not meeting its KPIs?",
+      "Discuss your approach to building and leading a product team."
+    ]
+  },
+  "behavioral": [
+    "Tell me about a time you had to say no to an important stakeholder.",
+    "Describe a product failure and what you learned from it.",
+    "Give an example of how you've influenced without authority."
+  ]
+}

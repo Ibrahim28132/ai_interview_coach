@@ -1,0 +1,105 @@
+2025-06-26 22:33:52,020 - WARNING - Resume text too long (4866 chars), truncating to 2000 chars
+2025-06-26 22:33:53,052 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 22:33:53,052 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 22:34:05,833 - WARNING - Resume text too long (3181 chars), truncating to 1500 chars
+2025-06-26 22:34:14,744 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:34:19,777 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:34:19,777 - WARNING - No question bank for software_engineering, using default questions
+2025-06-26 22:34:51,344 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 22:35:03,952 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:35:14,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:35:14,316 - ERROR - Error running interview: 'list' object has no attribute 'get'
+2025-06-26 22:43:13,206 - WARNING - Resume text too long (4866 chars), truncating to 2000 chars
+2025-06-26 22:43:14,301 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 22:43:14,301 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 22:43:27,142 - WARNING - Resume text too long (3181 chars), truncating to 1500 chars
+2025-06-26 22:43:42,350 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:43:47,151 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:44:18,590 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 22:44:23,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:44:32,786 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:44:32,786 - WARNING - No JSON found in vocal feedback: Your presentation was clear with an excellent pace and no filler words. The neutral tone maintained ...
+2025-06-26 22:44:32,786 - ERROR - Error running interview: 'list' object has no attribute 'get'
+2025-06-26 22:51:10,285 - WARNING - Resume text too long (4866 chars), truncating to 2000 chars
+2025-06-26 22:51:11,480 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 22:51:11,480 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 22:51:24,150 - WARNING - Resume text too long (3181 chars), truncating to 1500 chars
+2025-06-26 22:51:30,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:51:36,313 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:52:07,334 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 22:52:13,480 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 22:52:13,496 - ERROR - Error running interview: Unknown format code 'f' for object of type 'str'
+2025-06-26 23:11:46,091 - WARNING - Resume text too long (4866 chars), truncating to 2000 chars
+2025-06-26 23:11:47,309 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 23:11:47,309 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 23:11:59,802 - WARNING - Resume text too long (3181 chars), truncating to 1500 chars
+2025-06-26 23:12:08,513 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:12:14,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:12:44,643 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:12:50,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:13:24,174 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:13:33,260 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:14:15,899 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:14:27,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:15:03,281 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:15:10,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:15:49,281 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:15:55,937 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:16:29,426 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:16:36,703 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:17:09,027 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-26 23:17:16,679 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:17:35,175 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:17:35,191 - ERROR - Error generating summary report: Expecting value: line 1 column 1 (char 0)
+2025-06-26 23:19:11,963 - WARNING - No intro questions for SOFTWARE_ENGINEER, using default
+2025-06-26 23:31:46,709 - WARNING - Resume text too long (4866 chars), truncating to 2000 chars
+2025-06-26 23:31:47,790 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 23:31:47,790 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 23:32:10,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:32:16,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:37:32,245 - WARNING - Resume text too long (4866 chars), truncating to 4000 chars
+2025-06-26 23:37:33,345 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-26 23:37:33,345 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-26 23:37:46,006 - WARNING - Resume text too long (4181 chars), truncating to 4000 chars
+2025-06-26 23:37:54,943 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-26 23:37:59,961 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:40:29,539 - WARNING - Resume text too long (4866 chars), truncating to 4000 chars
+2025-06-27 10:40:30,406 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 10:40:30,406 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 10:40:42,892 - WARNING - Resume text too long (4181 chars), truncating to 4000 chars
+2025-06-27 10:40:57,579 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:41:02,828 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:41:46,676 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:41:52,642 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:42:33,829 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:42:39,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:43:20,875 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:43:26,693 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:44:47,721 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:44:55,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:45:39,700 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:45:45,300 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:46:26,594 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:46:33,116 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:47:17,801 - INFO - HTTP Request: POST https://api.openai.com/v1/audio/transcriptions "HTTP/1.1 200 OK"
+2025-06-27 10:47:24,058 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 10:47:38,050 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 19:32:40,417 - WARNING - Resume text too long (4866 chars), truncating to 4000 chars
+2025-06-27 19:32:41,203 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 19:32:41,203 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 20:06:05,241 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 20:06:05,241 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 20:06:43,880 - ERROR - Error in text-to-speech: run loop already started
+2025-06-27 20:06:43,895 - ERROR - Error in text-to-speech: run loop already started
+2025-06-27 20:07:11,883 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 20:07:11,883 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 20:08:20,562 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 20:08:20,562 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 21:40:47,742 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 21:40:47,742 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 21:41:53,843 - WARNING - Resume text too long (4866 chars), truncating to 4000 chars
+2025-06-27 21:41:55,258 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\HP\\PycharmProjects\\ai_interview_coach\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-27 21:41:55,258 - INFO - Using writeable comtypes cache directory: 'C:\Users\HP\PycharmProjects\ai_interview_coach\.venv\lib\site-packages\comtypes\gen'
+2025-06-27 21:42:07,751 - WARNING - Resume text too long (4181 chars), truncating to 4000 chars
+2025-06-27 21:42:21,227 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-27 21:42:29,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

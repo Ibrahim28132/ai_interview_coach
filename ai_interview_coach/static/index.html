@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Interview Coach</title>
+    <link rel="stylesheet" href="static/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI Interview Coach</h1>
+            <p>Practice your interview skills with AI</p>
+        </header>
+
+        <main>
+            <section id="chat-section" class="hidden">
+                <div id="chat-container"></div>
+                <div class="input-area">
+                    <input type="text" id="response-input" placeholder="Type your answer here..." autocomplete="off">
+                    <button id="send-btn">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22 2L11 13" stroke="white" stroke-width="2" stroke-linecap="round"/>
+                            <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                </div>
+            </section>
+
+            <section id="setup-section">
+                <div class="setup-card">
+                    <h2>Start Your Interview</h2>
+                    <form id="setup-form">
+                        <div class="form-group">
+                            <label for="interview-type">Interview Type</label>
+                            <select id="interview-type" required>
+                                <option value="" disabled selected>Select type</option>
+                                <option value="software_engineer">Software Engineer</option>
+                                <option value="product_manager">Product Manager</option>
+                                <option value="data_scientist">Data Scientist</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="experience-level">Experience Level</label>
+                            <select id="experience-level" required>
+                                <option value="" disabled selected>Select level</option>
+                                <option value="junior">Junior</option>
+                                <option value="mid">Mid-Level</option>
+                                <option value="senior">Senior</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="resume-upload">Upload Resume (optional)</label>
+                            <input type="file" id="resume-upload" accept=".txt,.pdf">
+                        </div>
+
+                        <button type="submit" class="primary-btn">Start Interview</button>
+                    </form>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="static/script.js"></script>
+</body>
+</html>

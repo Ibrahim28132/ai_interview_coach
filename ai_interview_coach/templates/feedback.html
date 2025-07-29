@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interview Feedback</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .feedback-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #f9f9f9;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .section {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #eee;
+        }
+        h2 {
+            color: #3498db;
+            margin-bottom: 15px;
+        }
+        .metric {
+            margin-bottom: 15px;
+        }
+        .metric-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .progress-container {
+            height: 20px;
+            background: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        .progress-bar {
+            height: 100%;
+            background: #2ecc71;
+            width: 0%;
+            transition: width 1s ease-in-out;
+        }
+        .strengths ul, .improvements ul {
+            padding-left: 20px;
+        }
+        .strengths li {
+            color: #27ae60;
+            margin-bottom: 8px;
+        }
+        .improvements li {
+            color: #e74c3c;
+            margin-bottom: 8px;
+        }
+        .resources li {
+            color: #3498db;
+            margin-bottom: 8px;
+        }
+        .overall-score {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .score-value {
+            font-size: 48px;
+            color: #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="feedback-container">
+        <h1>Interview Performance Report</h1>
+
+        <div class="overall-score">
+            Overall Score: <span class="score-value">{{ score }}</span>/100
+        </div>
+
+        <div class="section overview">
+            <h2>Overview</h2>
+            <p>{{ overview }}</p>
+        </div>
+
+        <div class="section metrics">
+            <h2>Performance Metrics</h2>
+            {% for metric in metrics %}
+            <div class="metric">
+                <div class="metric-title">
+                    <span>{{ metric.name }}</span>
+                    <span>{{ metric.score }}/10</span>
+                </div>
+                <div class="progress-container">
+                    <div class="progress-bar" style="width: {{ metric.score * 10 }}%"></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="section strengths">
+            <h2>Strengths</h2>
+            <ul>
+                {% for strength in strengths %}
+                <li>{{ strength }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="section improvements">
+            <h2>Areas for Improvement</h2>
+            <ul>
+                {% for improvement in improvements %}
+                <li>{{ improvement }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="section resources">
+            <h2>Recommended Resources</h2>
+            <ul>
+                {% for resource in resources %}
+                <li>{{ resource }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // Animate progress bars on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            const progressBars = document.querySelectorAll('.progress-bar');
+            progressBars.forEach(bar => {
+                const targetWidth = bar.style.width;
+                bar.style.width = '0%';
+                setTimeout(() => {
+                    bar.style.width = targetWidth;
+                }, 100);
+            });
+        });
+    </script>
+</body>
+</html>

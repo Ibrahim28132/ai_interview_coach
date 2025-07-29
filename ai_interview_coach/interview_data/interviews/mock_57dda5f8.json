@@ -1,0 +1,308 @@
+{
+  "interview_id": "mock_57dda5f8",
+  "user_id": "client-msguofx81",
+  "interview_type": "software_engineer",
+  "level": "junior",
+  "start_time": "2025-06-28T10:58:55.818837",
+  "end_time": "2025-06-28T11:08:18.367174",
+  "overall_score": 25.0,
+  "resume_text": "# ALEX JOHNSON\r\n**Software Engineer**\r\n\r\n\ud83d\udce7 alex.johnson@email.com | \ud83d\udcf1 +1 (555) 123-4567  \r\n\ud83c\udf10 linkedin.com/in/alexjohnson | \ud83d\udcbb github.com/alexjohnson  \r\n\ud83d\udccd San Francisco, CA\r\n\r\n---\r\n\r\n## PROFESSIONAL SUMMARY\r\n\r\nExperienced Software Engineer with 5+ years of expertise in full-stack development, cloud architecture, and agile methodologies. Proven track record of delivering scalable applications that serve millions of users while reducing system costs by 30%. Passionate about clean code, performance optimization, and mentoring junior developers.\r\n\r\n---\r\n\r\n## TECHNICAL SKILLS\r\n\r\n**Programming Languages:** Python, JavaScript, Java, TypeScript, Go, SQL  \r\n**Frontend Technologies:** React, Vue.js, Angular, HTML5, CSS3, Tailwind CSS  \r\n**Backend Technologies:** Node.js, Django, Spring Boot, Flask, Express.js  \r\n**Databases:** PostgreSQL, MongoDB, Redis, MySQL, Elasticsearch  \r\n**Cloud Platforms:** AWS (EC2, S3, Lambda, RDS), Google Cloud Platform, Azure  \r\n**DevOps & Tools:** Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform  \r\n**Version Control:** Git, GitHub, GitLab  \r\n**Testing:** Jest, Pytest, JUnit, Cypress, Selenium  \r\n**Methodologies:** Agile, Scrum, TDD, CI/CD, Microservices Architecture\r\n\r\n---\r\n\r\n## PROFESSIONAL EXPERIENCE\r\n\r\n### **Senior Software Engineer** | *TechCorp Solutions* | *Jan 2022 - Present*\r\n\r\n- **Led development** of a microservices-based e-commerce platform serving 2M+ daily active users\r\n- **Architected and implemented** real-time inventory management system using Python, Redis, and WebSocket connections, reducing inventory discrepancies by 85%\r\n- **Optimized database queries** and implemented caching strategies, improving application response time by 60%\r\n- **Mentored 4 junior developers** on code quality, design patterns, and best practices\r\n- **Collaborated with product managers** to define technical requirements and project timelines\r\n- **Technologies:** Python, React, PostgreSQL, Redis, AWS, Docker, Kubernetes\r\n\r\n### **Software Engineer** | *InnovateTech Inc.* | *Mar 2020 - Dec 2021*\r\n\r\n- **Developed and maintained** 15+ RESTful APIs handling 10K+ requests per minute\r\n- **Built responsive web applications** using React and TypeScript, improving user engagement by 40%\r\n- **Implemented automated testing suites** achieving 90% code coverage and reducing production bugs by 50%\r\n- **Participated in code reviews** and contributed to technical documentation\r\n- **Integrated third-party payment systems** (Stripe, PayPal) with robust error handling\r\n- **Technologies:** JavaScript, React, Node.js, MongoDB, AWS Lambda, Jest\r\n\r\n### **Junior Software Developer** | *StartupXYZ* | *Jun 2019 - Feb 2020*\r\n\r\n- **Contributed to development** of a SaaS analytics dashboard using Vue.js and Python\r\n- **Fixed 100+ bugs** and implemented new features based on user feedback\r\n- **Participated in daily standups** and sprint planning meetings\r\n- **Learned and applied** agile development methodologies\r\n- **Technologies:** Vue.js, Python, Flask, MySQL, Git\r\n\r\n---\r\n\r\n## KEY PROJECTS\r\n\r\n### **Real-Time Chat Application** | *Personal Project*\r\n- Built a scalable chat application supporting 1000+ concurrent users\r\n- Implemented WebSocket connections, message encryption, and file sharing\r\n- **Tech Stack:** Node.js, Socket.io, React, MongoDB, Redis\r\n- **GitHub:** github.com/alexjohnson/realtime-chat\r\n\r\n### **AI-Powered Task Manager** | *Hackathon Winner*\r\n- Developed an intelligent task management system with ML-based priority recommendations\r\n- Won 1st place at TechHack 2023 among 200+ participants\r\n- **Tech Stack:** Python, TensorFlow, React, PostgreSQL\r\n- **Demo:** taskai-demo.com\r\n\r\n### **Open Source Contribution - React Performance Library**\r\n- Contributed performance optimization hooks to popular React library (5K+ GitHub stars)\r\n- Improved component rendering performance by 25% in large applications\r\n- **GitHub:** github.com/react-perf/react-performance-hooks\r\n\r\n---\r\n\r\n## EDUCATION\r\n\r\n### **Bachelor of Science in Computer Science**\r\n*University of California, Berkeley* | *2015 - 2019*\r\n- **GPA:** 3.7/4.0\r\n- **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering, Computer Networks\r\n- **Honor:** Dean's List (2017, 2018)\r\n\r\n---\r\n\r\n## CERTIFICATIONS\r\n\r\n- **AWS Certified Solutions Architect - Associate** | *2023*\r\n- **Google Cloud Professional Developer** | *2022*\r\n- **Certified Kubernetes Administrator (CKA)** | *2021*\r\n\r\n---\r\n\r\n## ACHIEVEMENTS & AWARDS\r\n\r\n- **Employee of the Quarter** - TechCorp Solutions (Q3 2023)\r\n- **Best Technical Innovation Award** - InnovateTech Inc. (2021)\r\n- **Hackathon Winner** - TechHack 2023 (1st Place)\r\n- **Open Source Contributor** - 15+ contributions to popular repositories\r\n\r\n---\r\n\r\n## LANGUAGES\r\n\r\n- **English:** Native\r\n- **Spanish:** Conversational\r\n- **Mandarin:** Basic\r\n\r\n---\r\n\r\n## INTERESTS\r\n\r\n- Contributing to open-source projects\r\n- Tech blogging and writing tutorials\r\n- Rock climbing and hiking\r\n- Photography and drone piloting",
+  "resume_data": {
+    "skills": [
+      "full-stack development",
+      "cloud architecture",
+      "agile methodologies",
+      "clean code",
+      "performance optimization",
+      "mentoring",
+      "code quality",
+      "design patterns",
+      "best practices",
+      "technical documentation",
+      "error handling",
+      "agile development methodologies"
+    ],
+    "tools": [
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab CI/CD",
+      "Terraform",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Stripe",
+      "PayPal",
+      "Socket.io"
+    ],
+    "technologies": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "TypeScript",
+      "Go",
+      "SQL",
+      "React",
+      "Vue.js",
+      "Angular",
+      "HTML5",
+      "CSS3",
+      "Tailwind CSS",
+      "Node.js",
+      "Django",
+      "Spring Boot",
+      "Flask",
+      "Express.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis",
+      "MySQL",
+      "Elasticsearch",
+      "AWS",
+      "Google Cloud Platform",
+      "Azure",
+      "Jest",
+      "Pytest",
+      "JUnit",
+      "Cypress",
+      "Selenium",
+      "WS (EC2, S3, Lambda, RDS)",
+      "TensorFlow",
+      "WebSockets"
+    ]
+  },
+  "questions": [
+    {
+      "question": "Tell me about yourself and your technical background.",
+      "phase": "intro",
+      "time": "2025-06-28T10:59:27.947527",
+      "response": {
+        "text": "No clear response provided",
+        "audio_features": {},
+        "processing_time": 67.08599,
+        "timestamp": "2025-06-28T11:00:35.035517"
+      },
+      "feedback": {
+        "feedback": "As no clear response was provided, it's difficult to assess your suitability for the role based on the given question. It is important to discuss your technical background when asked, as this gives interviewers insight into your capabilities and experiences relevant to the job.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Without specific audio features, it's challenging to provide detailed feedback on vocal delivery. A well-rounded vocal presentation is crucial in an interview setting.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Provide a verbal response to fully assess vocal qualities"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Walk me through your resume.",
+      "phase": "intro",
+      "time": "2025-06-28T11:00:41.967209",
+      "response": {
+        "text": "No clear response provided",
+        "audio_features": {},
+        "processing_time": 68.466544,
+        "timestamp": "2025-06-28T11:01:50.433753"
+      },
+      "feedback": {
+        "feedback": "It appears that you did not provide any specific information in response to the question about walking through your resume. This response is critical as it helps the interviewer understand your professional background, key achievements, and how your experiences align with the job requirements.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As no specific audio features were provided, vocal assessments are given average scores.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide clear responses to the questions",
+            "Try to maintain consistent vocal delivery"
+          ]
+        }
+      }
+    },
+    {
+      "question": "How would you optimize a slow database query?",
+      "phase": "technical",
+      "time": "2025-06-28T11:01:58.422201",
+      "response": {
+        "text": "Fuck you Monday. Fuck you Monday.",
+        "audio_features": {
+          "pace": 3.0,
+          "confidence": 10.0,
+          "filler_words": 0
+        },
+        "processing_time": 38.10951,
+        "timestamp": "2025-06-28T11:02:36.531711"
+      },
+      "feedback": {
+        "feedback": "The response to the interview question was inappropriate and unprofessional, as it did not address the query at all. Using offensive phrases does not convey professionalism or any relevant knowledge regarding optimizing database queries. It is crucial to focus on technical details that are pertinent to the question to demonstrate expertise and competency.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Despite the unacceptable content, the vocal delivery features indicate a fast pace and high confidence. However, the context and content of what was spoken are not aligned with professional standards.",
+          "vocal_metrics": {
+            "pace": 3.0,
+            "confidence": 10.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Ensure content is professional and on-topic"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Explain the difference between REST and GraphQL.",
+      "phase": "technical",
+      "time": "2025-06-28T11:02:44.892377",
+      "response": {
+        "text": "No clear response provided",
+        "audio_features": {},
+        "processing_time": 77.752618,
+        "timestamp": "2025-06-28T11:04:02.644995"
+      },
+      "feedback": {
+        "feedback": "As there was no response provided to the question about the differences between REST and GraphQL, it's difficult to evaluate the content's technical accuracy or clarity. Both REST and GraphQL are crucial concepts in web development, and understanding the distinctions can highlight one's depth of knowledge in API design and usage. It's important to address the question directly, providing specific details about both technologies, and elaborating on their respective advantages and use cases.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal delivery can be assessed due to the absence of a verbal response and lack of detailed audio features.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Provide a verbal response to assess vocal metrics properly."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Can you describe a project where you implemented both front-end and back-end technologies, and which tools and frameworks did you use for full-stack development?",
+      "phase": "technical",
+      "time": "2025-06-28T11:04:17.492854",
+      "response": {
+        "text": "No clear response provided",
+        "audio_features": {},
+        "processing_time": 64.020233,
+        "timestamp": "2025-06-28T11:05:21.513087"
+      },
+      "feedback": {
+        "feedback": "The response to the question about describing a project involving both front-end and back-end technologies was not provided. It is key to address the question directly and share specific technologies, frameworks, and personal experiences related to the project. Ensure future responses adequately reflect on your role, choices, and the implications of those choices on the project.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Unable to analyze vocal delivery as no audio content was provided. For future references, ensure to respond to enable a comprehensive evaluation.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Provide a response to enable vocal delivery analysis."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Give an example of how you've mentored junior engineers.",
+      "phase": "behavioral",
+      "time": "2025-06-28T11:05:30.504794",
+      "response": {
+        "text": "No clear response provided",
+        "audio_features": {},
+        "processing_time": 99.804477,
+        "timestamp": "2025-06-28T11:07:10.309271"
+      },
+      "feedback": {
+        "feedback": "It seems you did not provide a specific example of mentoring junior engineers. Providing real-life examples is critical in demonstrating your experience and effectiveness in mentorship roles.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As no audio features are provided, feedback on vocal delivery cannot be specific. Based on a default assessment, there's room for improvement in vocal delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide audio for specific vocal feedback"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Tell me about a time you had to debug a difficult problem.",
+      "phase": "behavioral",
+      "time": "2025-06-28T11:07:20.249739",
+      "response": {
+        "text": "... ... ... ... ... ... ... ...",
+        "audio_features": {
+          "pace": 4.0,
+          "confidence": 10.0,
+          "filler_words": 0
+        },
+        "processing_time": 51.835239,
+        "timestamp": "2025-06-28T11:08:12.085980"
+      },
+      "feedback": {
+        "feedback": "The content of the response was omitted in the transcript, therefore specific feedback on the response content cannot be provided. However, assuming a standard problem-solving approach was discussed, ensure that future responses clearly detail the problem, the steps taken to debug it, and the eventual solution. Incorporating examples of specific tools used and mentioning any lessons learned can greatly enrich the response.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Based on the audio features provided, your vocal delivery conveyed confidence and you maintained a good pace without using any filler words. However, ensure to modulate your pacing to emphasize key points which could enhance understanding.",
+          "vocal_metrics": {
+            "pace": 4.0,
+            "confidence": 10.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Consider varying your pace to emphasize important points",
+            "Maintain your clear and confident delivery"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "score": 25.0,
+    "overview": "The candidate's performance during the interview process demonstrated a significant lack of responsiveness and professionalism, significantly undermining their demonstrated technical capabilities and professional accomplishments as outlined in their resume.",
+    "strengths": [
+      "Comprehensive technical background with strong experience in full-stack development, cloud architecture, and agile methodologies.",
+      "Proven leadership and mentoring skills based on the resume details and involvement in significant projects."
+    ],
+    "recommendations": [
+      "Focus on providing clear, direct responses to interview questions to fully showcase knowledge and experience.",
+      "Ensure professionalism in communication during interviews, refraining from inappropriate or offensive remarks. Practice potential interview questions, particularly for explaining technical projects and solutions."
+    ]
+  }
+}

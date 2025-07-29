@@ -1,0 +1,29 @@
+{
+  "intro": [
+    "Tell me about yourself and your technical background.",
+    "What interests you about this position?",
+    "Walk me through your resume."
+  ],
+  "technical": {
+    "junior": [
+      "Explain the difference between REST and GraphQL.",
+      "What is the time complexity of a binary search?",
+      "How would you optimize a slow database query?"
+    ],
+    "mid": [
+      "Design a scalable URL shortening service.",
+      "Explain CAP theorem and its implications.",
+      "How would you handle a memory leak in a production service?"
+    ],
+    "senior": [
+      "Design a globally distributed caching system.",
+      "How would you architect a system that needs 99.999% availability?",
+      "Explain how you would implement zero-downtime deployments."
+    ]
+  },
+  "behavioral": [
+    "Tell me about a time you had to debug a difficult problem.",
+    "Describe a situation where you had to work with a difficult team member.",
+    "Give an example of how you've mentored junior engineers."
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "interview_id": "mock_e33c3cb3",
+  "user_id": "client-5l19lh52q",
+  "interview_type": "software_engineer",
+  "level": "mid",
+  "start_time": "2025-06-28T11:41:15.681964",
+  "end_time": "2025-06-28T11:46:37.439569",
+  "questions": [
+    {
+      "question": "Tell me about yourself and your technical background.",
+      "phase": "intro",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "Since no response was provided within the time limit, it is not possible to evaluate the content and quality of your answer to this question. It's essential to prepare in advance to ensure you can provide a concise and compelling summary of your experience and background.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal delivery could be assessed due to the lack of any audible response.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Ensure to respond within the time limit to enable evaluation of vocal delivery."
+          ]
+        }
+      }
+    },
+    {
+      "question": "What interests you about this position?",
+      "phase": "intro",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "Since there was no response provided within the time limit, it's difficult to evaluate the content and quality of the answer to the question about your interest in the position. Providing a response is crucial in demonstrating your enthusiasm and fit for the role. For future interviews, be sure to prepare and express clearly what attracts you to the position and how your skills and experiences align with the job requirements.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As there was no vocal response provided, no assessment of vocal delivery can be made. However, should you provide an answer in future situations, focus on clear and confident delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Provide a response to showcase communication skills"
+          ]
+        }
+      }
+    },
+    {
+      "question": "You mention expertise in cloud architecture with experience in AWS, Google Cloud Platform, and Azure. Can you detail how you've designed a scalable and cost-effective cloud solution for a past project?",
+      "phase": "technical",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "Since there was no response provided within the time limit, it's difficult to evaluate the content and quality of your answer to the question regarding your expertise in cloud architecture. Providing a detailed response showcasing specific projects or solutions you have designed would greatly enhance the interviewers' understanding of your capabilities and experience in the field.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal feedback can be provided as there was no audio response captured.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": []
+        }
+      }
+    },
+    {
+      "question": "Given your experience with agile methodologies, how do you handle changes in project requirements mid-way through the development cycle, and what agile practices do you find most effective?",
+      "phase": "technical",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "No response was provided to the interview question on managing changes in project requirements with agile methodologies. Therefore, it's not possible to assess the content's relevance, accuracy, or effectiveness.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Since there was no vocal response, we are unable to provide specific feedback on vocal delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": []
+        }
+      }
+    },
+    {
+      "question": "Given your experience with agile methodologies, how do you handle changes in project requirements mid-way through the development cycle, and what agile practices do you find most effective?",
+      "phase": "technical",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "No response was provided within the allotted time. To improve, it's important to manage time effectively and ensure that a complete answer is delivered within the given constraints. When discussing agile methodologies and changes in requirements, it would be beneficial to highlight specific strategies like SCRUM or Kanban, and discuss techniques such as daily standups, sprint plannings, and retrospectives to accommodate and handle changes efficiently.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Since there was no response provided, vocal analysis is not applicable. For future reference, pay attention to maintaining a steady pace, expressing confidence, and minimizing the use of filler words when speaking.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Ensure to respond within the time limit",
+            "Practice articulating thoughts clearly and confidently"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Tell me about a time you had to debug a difficult problem.",
+      "phase": "behavioral",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "As there was no response provided to the question, it's difficult to evaluate your answer's content and quality. It is essential to at least attempt a response, as it shows your willingness to engage with the question and your ability to handle unexpected or challenging queries.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal delivery to assess due to the absence of a response.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": []
+        }
+      }
+    },
+    {
+      "question": "Describe a situation where you had to work with a difficult team member.",
+      "phase": "behavioral",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "Since there was no response provided within the time limit, it's challenging to give specific feedback on the content and quality of the answer to the interview question about dealing with a difficult team member. It's crucial to provide an answer to demonstrate your ability to reflect on experiences and articulate them effectively during an interview.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Without audio features or content provided, precise vocal feedback cannot be given. However, during interviews, ensure to manage time effectively to respond within the allotted time.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Ensure to respond within the time limit"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "score": 0.0,
+    "overview": "The interviewee did not provide any responses to all the questions posed during the interview, resulting in an inability to properly evaluate any technical skills, problem-solving capabilities, or communication skills.",
+    "strengths": [],
+    "recommendations": [
+      "Ensure to respond to interview questions within the allotted time to demonstrate communication skills and technical knowledge.",
+      "Practice articulating thoughts clearly and confidently under timed conditions, perhaps through mock interviews or timed responses to potential questions."
+    ]
+  }
+}

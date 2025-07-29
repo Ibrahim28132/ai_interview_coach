@@ -1,0 +1,191 @@
+{
+  "interview_id": "mock_3e373591",
+  "user_id": "client-m8bwwcic7",
+  "interview_type": "software_engineer",
+  "level": "mid",
+  "start_time": "2025-06-28T12:39:46.909325",
+  "end_time": "2025-06-28T12:45:33.224642",
+  "questions": [
+    {
+      "question": "Tell me about yourself and your technical background.",
+      "phase": "intro",
+      "response": "name is Ibrahim and I have a software engineering degree and I do computer science projects like backing and content implementations I also do artificial intelligence agent development and also machine learning models implementation and they also do a wide variety of cloud implementation like azure and also darker and also a lot of programming languages from different angles such as Python JavaScript and all of them combined",
+      "feedback": {
+        "feedback": "Ibrahim, your response showcases a broad range of technical skills across different domains which is impressive. However, the presentation of these skills could be improved for better clarity. The response seems somewhat disjointed with many ideas connected with 'and also' repeated multiple times, making it a bit challenging to follow. A structured presentation, possibly using a chronological order or grouping related skills together, would enhance the effectiveness of your communication. It would also be beneficial to elaborate a bit more on specific projects or roles to provide depth to your experience.",
+        "metrics": {
+          "clarity": 6.0,
+          "technical_accuracy": 8.0,
+          "communication": 5.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As the audio features are unspecified, general feedback based on typical scenarios is provided. Aim to ensure your vocal delivery matches the professional nature of your content. It is crucial to manage your pace, aiming for a moderate speed that allows the listener to absorb technical details. Confidence is conveyed not just through the content but how well you present it, with lesser filler words indicating better preparation.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Speak more slowly",
+            "Reduce filler words"
+          ]
+        }
+      }
+    },
+    {
+      "question": "What interests you about this position?",
+      "phase": "intro",
+      "response": "interests me about this position is the fact that will be working with the experienced developers and also be doing what I love the most and be able to build systems and they'll be able to resolve some of the issues that are affecting the world and especially the business and economic World by developing some user interfaces and some projects that are related to the world problems that will be able to solve them",
+      "feedback": {
+        "feedback": "Your response clearly shows your enthusiasm for the role and the positive impact you believe you can make by working with experienced developers. However, the response could be improved by better structuring your thoughts and avoiding long-winded sentences. Break down your answer into clear, concise points, focusing on specific skills you bring to the role and how they align with the company's goals. Additionally, clarifying how your expertise in developing user interfaces directly relates to solving world economic issues would strengthen your response.",
+        "metrics": {
+          "clarity": 6.0,
+          "technical_accuracy": 7.0,
+          "communication": 5.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As audio features are not provided, the default assessment reflects an average performance. To improve, consider practicing your responses to maintain a steady pace and confident tone.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Practice to improve pacing and confidence"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Given your experience with GitLab CI/CD and Jenkins, can you discuss how you have set up a continuous integration/continuous deployment pipeline for a past project? What were some challenges you faced and how did you overcome them?",
+      "phase": "technical",
+      "response": "can I use it to implement some projects that such like the e-commerce projects I also used the them in the AI development projects and I faced some problem in terms of integration and also problems with the monitoring my application but I was able to find a solution and I think they are all working fine and they are very good packages",
+      "feedback": {
+        "feedback": "The response addresses the usage of GitLab CI/CD and Jenkins in past projects, particularly in e-commerce and AI development projects. However, the explanation lacks detail about the specific processes involved in setting up the CI/CD pipelines. The answer briefly mentions encountering integration issues and monitoring challenges but does not elaborate on how these were specifically overcome or what steps were taken to resolve the problems. To improve, it's beneficial to include specific tools, scripts, or methodologies employed during the setup and mention particular challenges and their solutions in detail.",
+        "metrics": {
+          "clarity": 5.0,
+          "technical_accuracy": 5.0,
+          "communication": 4.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Due to the lack of audio features data, only a general feedback can be given based on default values.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide vocal feedback when submitting audio features"
+          ]
+        }
+      }
+    },
+    {
+      "question": "With your skills in performance optimization, could you provide an example of a performance issue you have solved, detailing the tools and strategies used?",
+      "phase": "technical",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "As no response was provided to the interview question, it is not possible to evaluate the content or quality of your answer regarding performance optimization. It is important to at least attempt to answer the question to showcase some level of knowledge or experience related to the topic.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No audio response was provided, so vocal delivery cannot be assessed. Providing any verbal response is crucial for evaluating vocal attributes.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": []
+        }
+      }
+    },
+    {
+      "question": "How have you implemented cloud architecture in your previous projects to optimize application performance? Please share any specific tools or services you used from cloud providers like AWS, Google Cloud, or Azure.",
+      "phase": "technical",
+      "response": "can I use the AWS mostly for the work and also azure and also docker for the containerization Mostly and they all work fine and they are easy to implement",
+      "feedback": {
+        "feedback": "Your response indicates that you have familiarity with using AWS, Azure, and Docker for cloud architecture and containerization. While it's great that you mentioned specific tools, the explanation lacks sufficient details on how you specifically optimized application performance using these tools. Providing examples or describing specific features of AWS or Azure that helped improve performance would make your response stronger and more convincing.",
+        "metrics": {
+          "clarity": 5.0,
+          "technical_accuracy": 6.0,
+          "communication": 4.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Since the audio features are not provided, general feedback based on an average performance is given. Enhancing vocal delivery and ensuring clear articulation can improve the impact of your communication.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Consider practicing with a focus on clear articulation and pacing your speech for better understanding."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Describe a situation where you had to work with a difficult team member.",
+      "phase": "behavioral",
+      "response": "I remember it was last year at work with this team member who had a different code implementation from mine and it was very difficult to choose but we managed to involve a third party was able to confirm which code was better and which one was supposed to be implemented and we found a reliable solution for the problem",
+      "feedback": {
+        "feedback": "Your response adequately describes a situation involving a challenging collaboration with a colleague over code implementation. It's good that you highlighted involving a third party to resolve the issue, emphasizing your approach to conflict resolution and decision-making in a professional setting. However, your response could be improved by providing more details about the specific challenges faced and the strategies you personally employed to handle the situation. Mentioning how you communicated with your team member and any lessons learned could enhance the richness of your answer.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Without specific audio features to analyze, the feedback on vocal delivery would be a default assessment. Improvements can be considered based on typical aspects such as pacing, confidence, and the use of filler words.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Consider practicing to maintain a steady pace.",
+            "Work on projecting confidence through your voice.",
+            "Be mindful of using filler words and try to minimize them."
+          ]
+        }
+      }
+    },
+    {
+      "question": "Describe a situation where you had to work with a difficult team member.",
+      "phase": "behavioral",
+      "response": "was last year I had to work with this team member we had different code implementation but you are able to involve a third party who was able to analyse our codes and determine which code was better and we found a reliable solution for the problem",
+      "feedback": {
+        "feedback": "Your response provides a clear example of resolving a conflict with a team member through the use of a third-party evaluator. However, the explanation lacks detail about your specific role and the steps involved in the decision-making process. Additionally, you could further enhance your response by explaining how this experience helped you grow professionally or what you learned about collaboration.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Feedback on vocal delivery based on audio features",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "No audio data available to provide specific suggestions."
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "score": 65.0,
+    "overview": "Ibrahim displayed a solid range of technical skills and knowledge throughout the interview, particularly highlighting his experience with cloud platforms and CI/CD pipelines. However, there were noticeable areas for improvement in communication clarity and detailed response structure.",
+    "strengths": [
+      "Broad technical expertise across various technologies and platforms",
+      "Practical knowledge in implementing real-world projects with CI/CD and cloud architectures"
+    ],
+    "recommendations": [
+      "Enhance communication clarity by structuring responses more coherently, possibly through chronological detailing or grouping similar topics together",
+      "Provide more detailed explanations of processes and solutions, especially when discussing technical challenges and their resolutions"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+# Core dependencies
+langgraph~=0.4.8
+langchain-openai~=0.3.25
+langchain-core~=0.3.66
+pydantic~=2.11.7
+python-dotenv~=1.1.1
+typing-extensions
+
+# Voice processing
+SpeechRecognition~=3.14.3
+pyttsx3~=2.98
+pyaudio~=0.2.14
+
+# Data analysis
+numpy
+pandas
+
+# Visualization
+rich~=14.0.0
+plotly
+
+# Web/Real-time
+websockets
+fastapi~=0.115.13
+uvicorn==0.24.0.post1
+
+# Utility
+python-multipart
+tqdm
+loguru
+
+# Testing
+pytest~=8.4.1
+pytest-asyncio
+
+
+
+keyboard~=0.13.5
+openai~=1.91.0

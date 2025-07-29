@@ -1,0 +1,197 @@
+{
+  "interview_id": "mock_42af63f8",
+  "user_id": "client-jlw536x9h",
+  "interview_type": "software_engineer",
+  "level": "mid",
+  "start_time": "2025-06-28T11:54:18.891878",
+  "end_time": "2025-06-28T11:57:01.649958",
+  "questions": [
+    {
+      "question": "Walk me through your resume.",
+      "phase": "intro",
+      "response": "Alexander I have a degree in software development and I do AI implementation and machine learning and also generative AI implementations",
+      "feedback": {
+        "feedback": "Your response quickly summarized your qualifications in software development and specific areas in AI, which is good for highlighting your specialized skills. However, the response could benefit from more structure and additional details such as specific projects or roles that illustrate your experience. Providing examples where you successfully applied your skills would greatly strengthen your answer and make it more compelling to interviewers.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As audio features are not provided, generic feedback suggests focusing on confidence and clarity of speech. Without specific audio data, detailed feedback on vocal delivery is not possible, hence neutral scores are provided.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Practice speaking clearly to ensure understanding",
+            "Work on confidence to engage listeners more effectively"
+          ]
+        }
+      }
+    },
+    {
+      "question": "What interests you about this position?",
+      "phase": "intro",
+      "response": "okay what interests me is the fact that I'll be able to work with the experienced developers and also a bill some of a generation implementation that I love to do",
+      "feedback": {
+        "feedback": "Your response highlights some good aspects like working with experienced developers and engaging in generation implementation, which shows your enthusiasm for gaining experience and working on specific technologies. However, the response could be more structured and clearer in articulating what aspects of generation implementation excite you and how they align with your career goals.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No specific vocal data available; consider working on general vocal delivery improvements.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 4.0
+          },
+          "vocal_suggestions": [
+            "Work on clarity and pacing of your speech",
+            "Practice speaking confidently with fewer hesitations"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Design a scalable URL shortening service.",
+      "phase": "technical",
+      "response": "okay what interests me is the fact that I'll be able to work with the experienced developers and also a bill some of a generation implementation that I love to do",
+      "feedback": {
+        "feedback": "The response to the question about designing a scalable URL shortening service does not address the technical aspects or requirements of the task. Instead, the reply focuses on personal enthusiasm and team interaction, which, while positive, are off-topic. It's important to address specific design challenges such as handling large volumes of requests, ensuring minimal latency, and maintaining robust data storage solutions.",
+        "metrics": {
+          "clarity": 2.0,
+          "technical_accuracy": 1.0,
+          "communication": 4.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Without specific audio features to analyze, the feedback on vocal delivery is generic. Generally, maintaining an even pace and minimizing filler words can help in delivering a clearer and more professional response.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Speak more clearly about the technical details",
+            "Focus your response on the question asked"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Explain CAP theorem and its implications.",
+      "phase": "technical",
+      "response": "information about it",
+      "feedback": {
+        "feedback": "The response 'information about it' is overly vague and does not appropriately address the interview question regarding the CAP theorem and its implications. A more thorough explanation should include the elements of the CAP theorem (Consistency, Availability, Partition Tolerance) and discuss practical implications of choosing between these properties in distributed systems.",
+        "metrics": {
+          "clarity": 1.0,
+          "technical_accuracy": 1.0,
+          "communication": 2.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Without specific audio features to analyze, a default evaluation is provided. Consider focusing on vocal delivery to enhance overall communication effectiveness.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide more detailed responses",
+            "Practice the articulation of technical concepts"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Can you discuss a complex project where you utilized both your full-stack development and cloud architecture skills? How did you approach the design and implementation?",
+      "phase": "technical",
+      "response": "jungle and also Lanka and lungs meet implementations",
+      "feedback": {
+        "feedback": "The response provided to the interview question was unclear and lacked detail. It did not effectively address the question about discussing a project involving full-stack development and cloud architecture skills. The words 'jungle', 'Lanka', and 'lungs meet implementations' do not seem to relate to the query about a complex project, suggesting a possible error in communication or comprehension of the question.",
+        "metrics": {
+          "clarity": 1.0,
+          "technical_accuracy": 1.0,
+          "communication": 1.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Since no audio features were provided, the vocal delivery cannot be specifically evaluated. However, a default score is provided based on typical challenges in interview settings.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Ensure audio clarity and comprehension of the question",
+            "Practice structured responses to technical questions"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Give an example of how you've mentored junior engineers.",
+      "phase": "behavioral",
+      "response": "engineers in the world of artificial intelligence and machine learning implementation and development",
+      "feedback": {
+        "feedback": "The response lacks a specific example or detail regarding your experience with mentoring junior engineers. It provides a general topic area (AI and ML implementation) but does not elaborate on how you've personally contributed to the growth or development of junior engineers. Providing a real-world example, highlighting challenges, solutions, and personal involvement would greatly enhance the response.",
+        "metrics": {
+          "clarity": 3.0,
+          "technical_accuracy": 5.0,
+          "communication": 2.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Unable to provide vocal feedback due to lack of audio features. However, general suggestions can be made to improve vocal delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Record and review your practice answers to improve pacing and confidence",
+            "Seek feedback on vocal delivery"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Give an example of how you've mentored junior engineers.",
+      "phase": "behavioral",
+      "response": "junior engineers in artificial intelligence and machine learning development",
+      "feedback": {
+        "feedback": "The response provided lacks detail and does not give an example of how you have mentored junior engineers. It is important to include specific examples or stories that illustrate your mentoring process, the challenges faced, and the outcomes. The response could greatly benefit from more depth and structure to clearly communicate your experience and approach in mentoring.",
+        "metrics": {
+          "clarity": 3.0,
+          "technical_accuracy": 5.0,
+          "communication": 2.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Due to the lack of audio features provided, it's challenging to assess vocal delivery accurately. To improve, consider focusing on delivering your responses with more preparation to enhance clarity and engagement.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Record in a quiet environment",
+            "Practice to improve confidence and fluency"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "score": 75.0,
+    "overview": "The interview performance for the software engineer position revealed strengths in technical knowledge and a strong background in full-stack development and cloud architecture. However, improvements are needed in communication specifically regarding clarity and technical depth during responses.",
+    "strengths": [
+      "Strong technical background and specialization in AI, ML, and cloud solutions.",
+      "Enthusiasm for working with experienced developers and leveraging advanced technologies."
+    ],
+    "recommendations": [
+      "Enhance responses by including more structured details and specific project examples, especially when discussing technical challenges and solutions.",
+      "Focus on improving communication clarity and the technical accuracy of responses to align more closely with the question topics."
+    ]
+  }
+}

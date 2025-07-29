@@ -1,0 +1,195 @@
+{
+  "interview_id": "mock_4cf4c5cd",
+  "user_id": "client-2xand6tvi",
+  "interview_type": "software_engineer",
+  "level": "mid",
+  "start_time": "2025-06-28T12:26:07.390990",
+  "end_time": "2025-06-28T12:31:32.846795",
+  "questions": [
+    {
+      "question": "Walk me through your resume.",
+      "phase": "intro",
+      "response": "okay I am ebrahim and I have a software engineering degree and also a major in computer science development and also artificial intelligence development machine learning development and backing and front end implementation of applications and also websites",
+      "feedback": {
+        "feedback": "Your response provides a comprehensive overview of your qualifications, which include a degree in software engineering and expertise in various domains like computer science development, artificial intelligence, and machine learning. However, the answer could be better organized and more concise. You've listed many skills and areas of knowledge, but it would be more effective to introduce these with clearer structure or by highlighting key experiences or projects that demonstrate these skills.",
+        "metrics": {
+          "clarity": 5.0,
+          "technical_accuracy": 8.0,
+          "communication": 5.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal feedback",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Practise speaking with a steady pace",
+            "Work on delivering with confidence",
+            "Monitor and reduce the use of filler words"
+          ]
+        }
+      }
+    },
+    {
+      "question": "What interests you about this position?",
+      "phase": "intro",
+      "response": "okay what interests me about the position is the fact that I'll be working with the experienced team members and be able to develop some generative AI models and also some machine learning models and also be able to develop some backing and front-end applications and implementations also and that's really great for the for the company that I'm supposed to be working for",
+      "feedback": {
+        "feedback": "Your response highlights a good understanding of the key responsibilities and technologies involved in the position. You express enthusiasm about working with experienced team members and developing a range of applications from generative AI and machine learning models to both backend and frontend implementations. However, the response could be improved by structuring your ideas more clearly and concisely. Avoid repetition and aim to connect your skills more directly with the job requirements.",
+        "metrics": {
+          "clarity": 6.0,
+          "technical_accuracy": 8.0,
+          "communication": 5.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As audio features are unavailable, the default feedback is based on average performance. It would be beneficial to focus on managing the pace of your speech to ensure clarity and to practice reducing filler words to enhance the overall delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Speak more slowly",
+            "Reduce filler words"
+          ]
+        }
+      }
+    },
+    {
+      "question": "You've listed Docker, Kubernetes, and Terraform among your tools. Could you explain how you've employed these technologies to enhance cloud architecture in a previous role?",
+      "phase": "technical",
+      "response": "yes I have used a docker for containerization of my applications and I've also used a cloud implementation because it provides some accurate information and also has enough space that I can use for my application to be able to store them to be able to review them and it's also efficient and ready for Operation it's a really good",
+      "feedback": {
+        "feedback": "Your response provides a general idea about how you used Docker and cloud implementations, but it lacks specific details about the other technologies you mentioned, such as Kubernetes and Terraform. It\u2019s important to explain how each tool contributed to enhancing the cloud architecture, possibly by providing examples or explaining specific advantages. Additionally, your response could be more structured to enhance clarity and effectiveness in communicating.",
+        "metrics": {
+          "clarity": 5.0,
+          "technical_accuracy": 6.0,
+          "communication": 5.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "As the audio features are not provided, feedback on vocal delivery is based on default scores. Consider focusing on pacing, projecting confidence, and reducing filler words in your delivery.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Speak more slowly",
+            "Reduce filler words"
+          ]
+        }
+      }
+    },
+    {
+      "question": "With your background in mentoring and technical documentation, how do you approach knowledge transfer in a team, especially when dealing with complex technology stacks?",
+      "phase": "technical",
+      "response": "No response provided within time limit",
+      "feedback": {
+        "feedback": "No response was provided by the user within the time limit. It is essential to be prepared to answer questions promptly in an interview setting, especially when they are directly related to one's field of expertise. For future interviews, consider preparing key points on relevant topics beforehand to ensure your ability to respond effectively even under time constraints.",
+        "metrics": {
+          "clarity": 0.0,
+          "technical_accuracy": 0.0,
+          "communication": 0.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "No vocal feedback can be provided as there was no response submitted.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": []
+        }
+      }
+    },
+    {
+      "question": "Can you describe a project where you utilized both Python and JavaScript for full-stack development? What were the challenges and how did you address them?",
+      "phase": "technical",
+      "response": "developed an e-commerce application and I used react for JavaScript and I also use the jungle for the Python implementation and it was a bit challenging but I was able to implement them because they are two different languages it was a bit hard to be able to combine them but by the end of the day I was able to combine them with his",
+      "feedback": {
+        "feedback": "The response provides a basic overview of using Python and JavaScript in a full-stack development project, specifically mentioning React and Django (though misspelled as 'jungle'). However, the explanation lacks depth in describing specific challenges encountered and the strategies used to overcome them. More detailed examples or insights into the integration issues faced with the two languages would enhance the response. Additionally, the response could benefit from a more structured format, separating the description of the project, the challenges faced, and the solutions implemented.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Audio features are not provided, thus detailed feedback on vocal delivery cannot be given. Based on the default values assigned, the vocal delivery is rated as moderate.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide audio features for accurate vocal feedback",
+            "Speak more slowly",
+            "Reduce filler words"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Tell me about a time you had to debug a difficult problem.",
+      "phase": "behavioral",
+      "response": "it was the last year I had this very big problem in terms of agent artificial intelligence development using language but I was able to resolve the problem using longsmith because it provided easy monitoring and I was able to get the problem",
+      "feedback": {
+        "feedback": "Your response provides a basic overview of how you tackled a challenging problem in artificial intelligence development using a language model. However, the answer lacked specific details about the exact nature of the problem and the steps you took within 'longsmith' to resolve the issue. It is also important to clearly articulate the outcome and what you learned from the experience to give a more complete picture.",
+        "metrics": {
+          "clarity": 7.0,
+          "technical_accuracy": 8.0,
+          "communication": 6.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Feedback on vocal delivery cannot be provided due to a lack of audio features provided.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 5.0
+          },
+          "vocal_suggestions": [
+            "Provide audio features for detailed feedback"
+          ]
+        }
+      }
+    },
+    {
+      "question": "Give an example of how you've mentored junior engineers.",
+      "phase": "behavioral",
+      "response": "okay I have mentored Junior",
+      "feedback": {
+        "feedback": "Your response to the question about mentoring junior engineers was insufficiently detailed. You stated that you have mentored junior engineers, but did not provide any specific examples or describe what methods you used, challenges you faced, or outcomes you achieved. Expanding on these areas could significantly enhance the quality and impact of your answer.",
+        "metrics": {
+          "clarity": 3.0,
+          "technical_accuracy": 4.0,
+          "communication": 2.0
+        },
+        "vocal_feedback": {
+          "vocal_feedback": "Due to the absence of audio features provided, specific feedback on vocal delivery cannot be ascertained accurately. However, maintaining a steady pace, confident tone, and minimizing filler words often contributes to better vocal presentation during interviews.",
+          "vocal_metrics": {
+            "pace": 5.0,
+            "confidence": 5.0,
+            "filler_words": 0.0
+          },
+          "vocal_suggestions": [
+            "Improve clarity and confidence",
+            "Consider practicing with mock interviews"
+          ]
+        }
+      }
+    }
+  ],
+  "summary": {
+    "score": 65.0,
+    "overview": "The interviewee demonstrated a strong technical background and familiarity with a range of technologies important for the software engineering position. Despite this, there were noticeable issues with clarity and communication in several responses, which impacted the overall effectiveness of the interview.",
+    "strengths": [
+      "Broad technical knowledge across tools and programming languages relevant to the job.",
+      "Experience in real-world applications and problem-solving highlighted through extensive professional experience."
+    ],
+    "recommendations": [
+      "Focus on improving the structure and organization of responses to clearly convey key points without unnecessary repetition.",
+      "Prepare specific examples in advance that clearly illustrate your points and ensure you can provide detailed answers within time constraints."
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "intro": [
+    "Tell me about your background in data science.",
+    "What data science projects are you most proud of?",
+    "How do you stay current with data science trends?"
+  ],
+  "technical": {
+    "junior": [
+      "Explain the difference between supervised and unsupervised learning.",
+      "How would you handle missing data in a dataset?",
+      "What evaluation metrics would you use for a classification problem?"
+    ],
+    "mid": [
+      "Explain how you would implement a recommendation system.",
+      "How would you deal with imbalanced classes in a dataset?",
+      "Walk me through your approach to feature engineering."
+    ],
+    "senior": [
+      "Design a real-time anomaly detection system for network traffic.",
+      "How would you explain a complex ML model to non-technical stakeholders?",
+      "Discuss your approach to model deployment and monitoring at scale."
+    ]
+  },
+  "behavioral": [
+    "Tell me about a time you had to explain complex technical concepts to non-technical team members.",
+    "Describe a situation where your analysis led to a significant business decision.",
+    "Give an example of how you've collaborated with engineers to productionize a model."
+  ]
+}
